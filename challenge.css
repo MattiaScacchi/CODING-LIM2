@@ -1,0 +1,66 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  background-image: url("background.jpg");
+  background-size: cover;
+}
+
+.contenitoreprincipale{
+  width: 850px;
+  height: 650px;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10px; color: rgba(0, 0, 0, 0.5);
+}
+
+#logo{
+  padding-top: 80px;
+  width: 20%;
+  height: 20%;
+}
+header{
+  color: rgb(0, 255, 0);
+  text-align: center;
+}
+
+.barra{
+  height: 20px;
+  width: 80%;
+  margin: auto;
+  background-color: rgb(0, 255, 0);
+  text-align: center;
+}
+
+main{
+  margin: auto;
+  color: white;
+  padding-left: 10%
+}
+
+h3{
+  display: inline-block;
+}
+
+h5{
+  margin: 0;
+}
+
+.carica1{
+  color: orange;
+  margin-right: 65%;
+  background-color: orange;
+  border-radius: 5px;
+}
+
+.carica2{
+  color: rgb(0, 255, 0);
+  margin-right: 40%;
+  background-color: rgb(0, 255, 0);
+  border-radius: 5px;
+}
+
+.carica3{
+  color: rgb(255, 0, 0);
+  margin-right: 85%;
+  background-color: rgb(255, 0, 0);
+  border-radius: 5px;
+}
